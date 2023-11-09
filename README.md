@@ -4,7 +4,7 @@
 - The mod allow you to replace decoy (key '3') with Stones, Regular Tinder or cattail heads
 - Useful for marking roads in anticipation of blizzards or for delimiting areas of thin ice (#ForlornMuskeg #Beachcombing).
 
-![DropStone](https://github.com/RomainDeschampsFR/UseTheWorstFirstAndDropStone/assets/38351288/5cee1bcb-d21e-492e-a241-df018dd9603f)
+https://github.com/RomainDeschampsFR/UseTheWorstFirstAndDropStone/assets/38351288/5cee1bcb-d21e-492e-a241-df018dd9603f
 
 
 ## USE THE WORST CONDITION ITEM FIRST FEATURE
