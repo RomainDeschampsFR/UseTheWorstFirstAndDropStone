@@ -6,6 +6,8 @@
 
 https://github.com/RomainDeschampsFR/UseTheWorstFirstAndDropStone/assets/38351288/5cee1bcb-d21e-492e-a241-df018dd9603f
 
+![torch](https://github.com/RomainDeschampsFR/UseTheWorstFirstAndDropStone/assets/38351288/fd6d4c4a-552c-4771-b473-9c25783b7689)
+
 
 ## USE THE WORST CONDITION ITEM FIRST FEATURE
 - Applies to radial menu (Torches, Matches, Weapons, ...)
